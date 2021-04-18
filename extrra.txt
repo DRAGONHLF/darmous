@@ -1,0 +1,1 @@
+./Downloads/tst/xmrig-6.11.1/xmrig --opencl --cuda -o pool.supportxmr.com:443 -u 46bNmb5eSTiERWkLk5RgYfE3FWku1uABWPjfLEPdp7ycgwerzwWs48d2fHRMp4NkMdVdNkb58tExdTYyH1e9ZJW6Cmnzozv -k --tls -p x
